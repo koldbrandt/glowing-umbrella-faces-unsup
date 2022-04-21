@@ -1,0 +1,5 @@
+outs:
+- md5: bbc32685fbbab6035064e14d2fa40437.dir
+  size: 31090414
+  nfiles: 6219
+  path: crop_part1
